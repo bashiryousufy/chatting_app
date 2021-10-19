@@ -1,6 +1,6 @@
 # ichat_app
 
-A new Flutter project.
+A simple real time chatting app build using flutter and firebase
 
 ## Getting Started
 
